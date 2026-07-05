@@ -42,16 +42,16 @@ graph TD
 ### 1. Interactive Matching Sandbox (Playground)
 Recruiters can try a live simulation of the semantic search directly on the homepage. They can edit job requirements, run the AI ranker, view scan progress, and inspect matched vs. missing skills for candidate profiles.
 
-### 2. Smart Resume Upload & Parsing
+### 1. Smart Resume Upload & Parsing
 Automated extraction of technical skills, experience metrics, education milestones, and project involvement from multiple resume formats in real-time.
 
-### 3. Future-Safe Interview Coordinator
-Features an interactive scheduling calendar (re-rendering dates dynamically based on availability) with robust validation:
+### 2.  Interview Coordinator
+Features an interactive scheduling calendar with robust validation:
 * **Past Date Prevention**: Dates prior to the present day are disabled and visually blocked from selection.
 * **Interval Overlap Checks**: Validates schedule ranges and ensures at least a 30-minute gap between meetings.
 * **Google Calendar API**: Integrates booking direct slots into calendar accounts.
 
-### 4. Recruiter Analytics Dashboard
+### 3. Recruiter Analytics Dashboard
 Visualization of candidates' skills distribution and profile ranks using Plotly charts. Includes advanced search filters for skills, locations, and experience ranges.
 
 ---
@@ -152,8 +152,3 @@ npm run dev
 
 * 👩‍💻 **Varnika Singh** (Full-Stack & AI Integration Lead)
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** – feel free to use and build upon this implementation.
