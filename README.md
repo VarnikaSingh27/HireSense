@@ -39,9 +39,6 @@ graph TD
 
 ## 🌟 Key Platform Features
 
-### 1. Interactive Matching Sandbox (Playground)
-Recruiters can try a live simulation of the semantic search directly on the homepage. They can edit job requirements, run the AI ranker, view scan progress, and inspect matched vs. missing skills for candidate profiles.
-
 ### 1. Smart Resume Upload & Parsing
 Automated extraction of technical skills, experience metrics, education milestones, and project involvement from multiple resume formats in real-time.
 
