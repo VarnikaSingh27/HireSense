@@ -24,7 +24,11 @@ export default function PostLogin() {
       // Send to server action to insert user into DB
       await saveUserToDatabase({ ...user, role });
 
-      router.replace("/h/dashboard");
+      if (role === "employee") {
+        router.replace("/u/dashboard");
+      } else {
+        router.replace("/h/dashboard");
+      }
     };
 
     redirectUser();

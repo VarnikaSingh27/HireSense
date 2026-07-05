@@ -101,10 +101,10 @@ function Navbar() {
 
             {/* Login & Sign Up Buttons */}
             <div className="flex items-center gap-2">
-              <Link href="/login">
+              <Link href="/login?mode=login">
                 <ShinyButton className="px-4 py-1.5 text-xs sm:text-sm">Login</ShinyButton>
               </Link>
-              <Link href="/login">
+              <Link href="/login?mode=signup">
                 <ShimmerButton className="px-4 py-1.5 text-xs sm:text-sm">Sign Up</ShimmerButton>
               </Link>
             </div>
