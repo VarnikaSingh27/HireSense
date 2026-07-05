@@ -70,12 +70,32 @@ Visualization of candidates' skills distribution and profile ranks using Plotly 
 ---
 ## Screenshots
 <img width="1920" height="849" alt="Screenshot (691)" src="https://github.com/user-attachments/assets/da0f4167-47d5-4a9f-88ba-a3fd4c072438" />
+<br />
+<br />
 <img width="1920" height="848" alt="Screenshot (692)" src="https://github.com/user-attachments/assets/c274fd15-13ab-4a29-928f-5673076ad478" />
+<br />
+<br />
 <img width="763" height="347" alt="image" src="https://github.com/user-attachments/assets/ff0022d6-4a7d-4445-9289-bd5a81ba9dff" />
+<br />
+<br />
 <img width="761" height="350" alt="image" src="https://github.com/user-attachments/assets/f6a210be-0d11-4429-b325-b80dcd3b575c" />
+<br />
+<br />
 <img width="763" height="353" alt="image" src="https://github.com/user-attachments/assets/48d7b91f-8808-4b25-a338-32636801629b" />
+<br />
+<br />
 <img width="763" height="349" alt="image" src="https://github.com/user-attachments/assets/a77eb011-1557-412d-b6f9-6b6a260418e5" />
-
+<br />
+<br />
+<img width="590" height="273" alt="image" src="https://github.com/user-attachments/assets/1d1ab338-4430-4ef7-9408-0cf4ce1fa1d7" />
+<br />
+<br />
+<img width="752" height="349" alt="image" src="https://github.com/user-attachments/assets/17c267de-465c-4d45-a599-85d63f199e21" />
+<br />
+<br />
+<img width="738" height="350" alt="image" src="https://github.com/user-attachments/assets/e1e5cc9f-e4c7-4883-9d41-fb9be1397cf8" />
+<br />
+<br />
 
 ## ⚙️ Local Setup & Installation
 
