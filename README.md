@@ -172,8 +172,3 @@ npm run dev
 *The backend API documentation will be available at: **`http://localhost:8000/docs`***
 
 ---
-
-## 👤 Author
-
-* 👩‍💻 **Varnika Singh** (Full-Stack & AI Integration Lead)
-
